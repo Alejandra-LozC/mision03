@@ -268,26 +268,34 @@ if classmates.empty:
     st.warning("No hay compañeros asignados a tu equipo en estudiantes.csv.")
     st.stop()
 
-with st.form("coevaluation_form"):
-    all_results = []
-    for _, person in classmates.iterrows():
-        st.subheader(person["nombre_completo"])
-        evaluated_role = st.selectbox(
-            "Rol que realmente desempeñó en la Misión 03",
-            ["Selecciona el rol..."] + ROLES,
-            key=f"{person['id']}_role",
+all_results = []
+
+for _, person in classmates.iterrows():
+    st.subheader(person["nombre_completo"])
+
+    evaluated_role = st.selectbox(
+        "Rol que realmente desempeñó en la Misión 03",
+        ["Selecciona el rol..."] + ROLES,
+        key=f"{person['id']}_role",
+    )
+
+    level = None
+    evidence = ""
+    improvement = ""
+
+    if evaluated_role != "Selecciona el rol...":
+        st.markdown("**Responsabilidades que corresponden a este rol:**")
+        for responsibility in ROLE_RESPONSIBILITIES[evaluated_role]:
+            st.markdown(f"- {responsibility}")
+
+        st.markdown("**Desempeño del rol**")
+        level = st.radio(
+            "Selecciona el nivel que mejor describe el desempeño observado:",
+            [4, 3, 2, 1],
+            format_func=lambda x: f"{x} — {LEVELS[x]}",
+            key=f"{person['id']}_level",
         )
-        level = None
-        if evaluated_role != "Selecciona el rol...":
-            st.markdown("**Responsabilidades observables de este rol:**")
-            for responsibility in ROLE_RESPONSIBILITIES[evaluated_role]:
-                st.markdown(f"- {responsibility}")
-            level = st.radio(
-                "Selecciona el nivel que mejor describe el desempeño observado:",
-                [4, 3, 2, 1],
-                format_func=lambda x: f"{x} — {LEVELS[x]}",
-                key=f"{person['id']}_level",
-            )
+
         evidence = st.text_area(
             "¿Qué podrías señalar como la evidencia más concreta de su participación, que te hizo calificar así?",
             key=f"{person['id']}_evidence",
@@ -298,10 +306,11 @@ with st.form("coevaluation_form"):
             key=f"{person['id']}_improvement",
             placeholder="Escribe una observación concreta y útil.",
         )
-        all_results.append((person, evaluated_role, level, evidence, improvement))
-        st.divider()
-    submitted = st.form_submit_button("ENVIAR COEVALUACIÓN", use_container_width=True)
 
+    all_results.append((person, evaluated_role, level, evidence, improvement))
+    st.divider()
+
+submitted = st.button("ENVIAR COEVALUACIÓN", use_container_width=True)
 if submitted:
     timestamp = datetime.now().astimezone().isoformat(timespec="seconds")
     evaluations = []

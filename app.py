@@ -101,7 +101,7 @@ def make_receipt_pdf(payload, confirmation_code):
     ]
     table = Table(data, colWidths=[5*cm, 11*cm])
     table.setStyle(TableStyle([
-        ("BACKGROUND", (0,0), (0,-1), (0, -1), "#EAF3F7"),
+        ("BACKGROUND", (0,0), (0,-1), "#EAF3F7"),
         ("GRID", (0,0), (-1,-1), 0.5, "#9AAAB2"),
         ("VALIGN", (0,0), (-1,-1), "TOP"),
         ("FONTNAME", (0,0), (0,-1), "Helvetica-Bold"),

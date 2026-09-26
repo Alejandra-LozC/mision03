@@ -276,8 +276,7 @@ with st.sidebar:
             st.rerun()
 
 if not st.session_state.evaluator:
-    st.image("assets/flujograma.png", use_container_width=True)
-    st.info("Ingresa tu ID institucional desde el panel lateral para comenzar.")
+    st.info("Ingresa tu ID institucional desde el panel lateral para comenzar incluye los 00 del inicio.")
     st.stop()
 
 ev = st.session_state.evaluator

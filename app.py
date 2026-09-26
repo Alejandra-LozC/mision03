@@ -118,9 +118,10 @@ def make_receipt_pdf(payload, confirmation_code):
 
 
 def github_save(payload):
+    github_secrets = st.secrets.get("github", {})
     token = st.secrets.get("GITHUB_TOKEN", "")
-    repo_name = st.secrets.get("GITHUB_REPO", DEFAULT_REPO)
-    branch = st.secrets.get("GITHUB_BRANCH", DEFAULT_BRANCH)
+    repo_name = st.secrets.get("GITHUB_REPO", "Alejandra-LozC/mision03")
+    branch = st.secrets.get("GITHUB_BRANCH", "main")
     if not token:
         return False, "No hay GITHUB_TOKEN configurado en Streamlit Secrets."
     try:

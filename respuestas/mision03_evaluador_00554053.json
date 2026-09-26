@@ -1,0 +1,56 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-26T22:02:53+00:00",
+  "evaluador_id": "00554053",
+  "evaluador_nombre": "Alatorre Quintero, Naomi",
+  "evaluador_rol": "Especialista anatómico/a",
+  "equipo": 2,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00553159",
+      "evaluado_nombre": "Cruz Montes, Erick",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Estuvo muy al pendiente de que la organización fuera la correcta",
+      "observacion_trabajo_grupo": "Manejo del tiempo"
+    },
+    {
+      "evaluado_id": "00569611",
+      "evaluado_nombre": "González Vargas, Fernanda",
+      "rol_evaluado": "Coordinador/a de misión",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Desde el inicio impartió los apartados conde cada quién trabajaría",
+      "observacion_trabajo_grupo": "Seguimiento del proyecto"
+    },
+    {
+      "evaluado_id": "00550849",
+      "evaluado_nombre": "Mena Fierro, Daniela",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Atención rápida a lo que se necesita",
+      "observacion_trabajo_grupo": "Seguimiento del proyecto"
+    },
+    {
+      "evaluado_id": "00554064",
+      "evaluado_nombre": "Torres Delgado, Karol Guadalupe",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Identificaba perfecto con razonamiento en cada apartado que se le requería",
+      "observacion_trabajo_grupo": "Compartir concretamente el conocimiento"
+    },
+    {
+      "evaluado_id": "00546251",
+      "evaluado_nombre": "Valdés Arámbula, Sofia Octivela",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Checó punto por punto, dando feedback para las áreas de mejoras antes de entregar",
+      "observacion_trabajo_grupo": "Agrupar concretamente las ideas individuales del grupo"
+    }
+  ],
+  "confirmation_code": "8B8F24367EE0"
+}

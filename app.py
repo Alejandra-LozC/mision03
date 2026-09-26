@@ -28,58 +28,20 @@ ROLES = [
     "Integrador/a y portavoz",
 ]
 
-CRITERIA = [
-    {
-        "name": "Cumplimiento del rol",
-        "weight": 0.25,
-        "descriptors": {
-            4: "Cumple de manera constante y autónoma las responsabilidades de su rol en la Misión 03. Se anticipa a necesidades del equipo y contribuye a que el análisis de las articulaciones avance.",
-            3: "Cumple adecuadamente las responsabilidades de su rol y realiza las tareas requeridas dentro del tiempo establecido.",
-            2: "Cumple solo parte de las responsabilidades de su rol o requiere recordatorios y seguimiento para completar sus tareas.",
-            1: "No cumple las responsabilidades de su rol o su falta de participación afecta el avance del equipo.",
-        },
-    },
-    {
-        "name": "Aporte al expediente",
-        "weight": 0.20,
-        "descriptors": {
-            4: "Realiza aportaciones sustanciales que mejoran la calidad, precisión o integración del Expediente de Validación Articular. Sus contribuciones son claramente identificables.",
-            3: "Realiza aportaciones pertinentes que contribuyen directamente a completar el expediente solicitado.",
-            2: "Realiza aportaciones ocasionales, incompletas o que requieren ser corregidas o complementadas por otros integrantes.",
-            1: "Su aportación es mínima, poco pertinente o no contribuye de manera significativa al producto final.",
-        },
-    },
-    {
-        "name": "Razonamiento anatómico",
-        "weight": 0.20,
-        "descriptors": {
-            4: "Aplica con precisión conocimientos anatómicos para relacionar huesos, superficies, configuración, subtipo sinovial y movimiento, y sustenta sus conclusiones con evidencia.",
-            3: "Aplica correctamente conceptos anatómicos para analizar las articulaciones y proporciona explicaciones adecuadas.",
-            2: "Reconoce algunos conceptos anatómicos, pero presenta dificultades para relacionarlos, justificarlos o aplicarlos al análisis.",
-            1: "Presenta dificultades importantes para aplicar conceptos anatómicos o sus conclusiones carecen de fundamento anatómico.",
-        },
-    },
-    {
-        "name": "Colaboración e integración",
-        "weight": 0.20,
-        "descriptors": {
-            4: "Escucha, comunica sus ideas con claridad, integra las aportaciones de los demás y favorece activamente la relación Anatomía → Clasificación → Movimiento → Ingeniería Biomédica.",
-            3: "Se comunica de manera clara y respetuosa, participa en las discusiones y considera las aportaciones de sus compañeros.",
-            2: "Participa de manera irregular, comunica sus ideas de forma poco clara o tiene dificultades para integrar las aportaciones de otros.",
-            1: "Presenta poca disposición para colaborar, dificulta la comunicación o no favorece el trabajo conjunto.",
-        },
-    },
-    {
-        "name": "Responsabilidad y profesionalismo",
-        "weight": 0.15,
-        "descriptors": {
-            4: "Cumple acuerdos y tiempos, mantiene una actitud responsable y demuestra iniciativa, respeto y compromiso con el trabajo del equipo.",
-            3: "Cumple los acuerdos y tiempos establecidos y mantiene una actitud respetuosa y responsable durante la misión.",
-            2: "Presenta incumplimientos ocasionales de acuerdos o tiempos y requiere recordatorios para mantener su participación y compromiso.",
-            1: "Incumple repetidamente acuerdos o tiempos, muestra poca responsabilidad o afecta negativamente el funcionamiento del equipo.",
-        },
-    },
-]
+ROLE_RESPONSIBILITIES = {
+    "Coordinador/a de misión": ["Organizó el trabajo y la distribución de las seis articulaciones.","Coordinó tiempos y tareas y dio seguimiento al avance.","Verificó que todas las articulaciones fueran analizadas.","Identificó información pendiente o inconsistencias en el trabajo del equipo."],
+    "Especialista anatómico/a": ["Verificó la correcta identificación de cada articulación.","Confirmó los huesos y superficies articulares participantes.","Determinó el subtipo sinovial con base en características anatómicas.","Utilizó nomenclatura anatómica y relaciones/orientación correctas.","Comprobó que las clasificaciones estuvieran sustentadas con evidencia."],
+    "Investigador/a biomédico/a": ["Analizó cómo la configuración articular condiciona el movimiento.","Relacionó la anatomía con aspectos básicos de biomecánica.","Identificó características anatómicas relevantes para un dispositivo biomédico.","Definió información anatómica indispensable para el diseño biomédico."],
+    "Documentador/a": ["Registró la evidencia del laboratorio mediante fotografías, esquemas o notas.","Organizó la información correspondiente a las seis articulaciones.","Preparó fichas, esquemas o tablas para integrar la información.","Integró las fuentes y contribuyó a la preparación del PDF final."],
+    "Integrador/a y portavoz": ["Integró las contribuciones de los integrantes.","Verificó la coherencia entre estructura, clasificación, movimiento y aplicación biomédica.","Detectó contradicciones o información faltante.","Contribuyó a las conclusiones del equipo y a su explicación cuando fue necesario."],
+}
+LEVELS = {
+    4: "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+    3: "Competente todavía con áreas de oportunidad — Desempeñó adecuadamente las responsabilidades de su rol y realizó las tareas esperadas, aunque pudo haber aspectos por fortalecer.",
+    2: "Adecuado pero evidentemente en desarrollo — Cumplió parcialmente las responsabilidades de su rol o necesitó apoyo, recordatorios o seguimiento para completar su participación.",
+    1: "Solamente fue testigo del proceso — Su participación observable fue mínima y no permitió identificar un desempeño efectivo de las responsabilidades del rol.",
+}
+
 
 st.markdown("""
 <style>
@@ -299,9 +261,8 @@ classmates = students[(students["mision03"] == group) & (students["id"] != ev["i
 st.markdown(f'<div class="case-card"><h3>Equipo {group}</h3><div>Evalúa a cada integrante de tu equipo excepto a ti mismo.</div></div>', unsafe_allow_html=True)
 st.markdown('<div class="case-card"><strong>Propósito:</strong> Valora el desempeño observado durante la Misión 03. Basa tus respuestas en conductas, aportaciones y evidencias relacionadas con el análisis de articulaciones, movimiento y aplicación biomédica; no en personalidad o afinidad.</div>', unsafe_allow_html=True)
 
-st.markdown("### Criterios de coevaluación")
-weights_text = " · ".join(f"{c['name']} {int(c['weight']*100)}%" for c in CRITERIA)
-st.caption(weights_text)
+st.markdown("### Coevaluación del desempeño del rol")
+st.caption("Para cada compañero, indica primero el rol que realmente desempeñó. Después valora únicamente el desempeño de ese rol.")
 
 if classmates.empty:
     st.warning("No hay compañeros asignados a tu equipo en estudiantes.csv.")
@@ -311,48 +272,51 @@ with st.form("coevaluation_form"):
     all_results = []
     for _, person in classmates.iterrows():
         st.subheader(person["nombre_completo"])
-        if "rol" in person and person["rol"].strip():
-            st.caption(f"Rol registrado: {person['rol']}")
-        values = {}
-        for criterion in CRITERIA:
-            name = criterion["name"]
-            weight = criterion["weight"]
-            st.markdown(f"**{name} — {int(weight*100)} %**")
-            values[name] = st.radio(
+        evaluated_role = st.selectbox(
+            "Rol que realmente desempeñó en la Misión 03",
+            ["Selecciona el rol..."] + ROLES,
+            key=f"{person['id']}_role",
+        )
+        level = None
+        if evaluated_role != "Selecciona el rol...":
+            st.markdown("**Responsabilidades observables de este rol:**")
+            for responsibility in ROLE_RESPONSIBILITIES[evaluated_role]:
+                st.markdown(f"- {responsibility}")
+            level = st.radio(
                 "Selecciona el nivel que mejor describe el desempeño observado:",
                 [4, 3, 2, 1],
-                format_func=lambda x, d=criterion["descriptors"]: f"{x} — {d[x]}",
-                key=f"{person['id']}_{name}",
-                label_visibility="collapsed",
+                format_func=lambda x: f"{x} — {LEVELS[x]}",
+                key=f"{person['id']}_level",
             )
-        comment = st.text_area(
-            "Evidencia o aportación concreta que justifica tu evaluación",
-            key=f"{person['id']}_comment",
-            placeholder="Describe una conducta, aportación o evidencia observable de la Misión 03.",
+        evidence = st.text_area(
+            "¿Qué podrías señalar como la evidencia más concreta de su participación, que te hizo calificar así?",
+            key=f"{person['id']}_evidence",
+            placeholder="Describe una conducta, aportación o evidencia observable.",
         )
         improvement = st.text_area(
-            "¿Qué podría mejorar en próximas misiones? (opcional)",
+            "¿Qué observación tienes sobre lo que podría mejorar al trabajar en grupo?",
             key=f"{person['id']}_improvement",
+            placeholder="Escribe una observación concreta y útil.",
         )
-        all_results.append((person, values, comment, improvement))
+        all_results.append((person, evaluated_role, level, evidence, improvement))
         st.divider()
-
     submitted = st.form_submit_button("ENVIAR COEVALUACIÓN", use_container_width=True)
 
 if submitted:
     timestamp = datetime.now().astimezone().isoformat(timespec="seconds")
     evaluations = []
-    for person, values, comment, improvement in all_results:
-        weighted = sum(values[c["name"]] * c["weight"] for c in CRITERIA)
+    for person, evaluated_role, level, evidence, improvement in all_results:
+        if evaluated_role == "Selecciona el rol..." or level is None:
+            st.error(f"Selecciona el rol y la calificación de {person['nombre_completo']}.")
+            st.stop()
         evaluations.append({
             "evaluado_id": str(person["id"]),
             "evaluado_nombre": person["nombre_completo"],
-            "rol": person.get("rol", ""),
-            "puntuacion_ponderada_4": round(weighted, 3),
-            "puntuacion_porcentaje": round(weighted / 4 * 100, 2),
-            "criterios": {c["name"]: values[c["name"]] for c in CRITERIA},
-            "comentario": comment.strip(),
-            "mejora": improvement.strip(),
+            "rol_evaluado": evaluated_role,
+            "calificacion": int(level),
+            "nivel": LEVELS[level],
+            "evidencia_participacion": evidence.strip(),
+            "observacion_trabajo_grupo": improvement.strip(),
         })
 
     canonical = json.dumps({
@@ -375,11 +339,22 @@ if submitted:
         "confirmation_code": confirmation_code,
     }
 
+    evaluations_with_context = []
+    for evaluation in evaluations:
+        evaluations_with_context.append({
+            "timestamp": timestamp,
+            "evaluador_id": str(ev["id"]),
+            "evaluador_nombre": ev["nombre_completo"],
+            "rol_evaluador": st.session_state.evaluator_role,
+            "equipo": group,
+            **evaluation,
+        })
+
     with st.spinner("Guardando coevaluación en GitHub..."):
         ok, detail = github_save(payload)
         if ok:
             try:
-                github_update_results_csv(payload)
+                update_results_csv(evaluations_with_context)
             except Exception as csv_error:
                 # El JSON individual ya quedó guardado; informar el problema del consolidado.
                 ok = False

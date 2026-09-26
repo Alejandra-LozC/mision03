@@ -119,11 +119,11 @@ def make_receipt_pdf(payload, confirmation_code):
 
 def github_save(payload):
     github_secrets = st.secrets.get("github", {})
-    token = st.secrets.get("GITHUB_TOKEN", "")
-    repo_name = st.secrets.get("GITHUB_REPO", "Alejandra-LozC/mision03")
-    branch = st.secrets.get("GITHUB_BRANCH", "main")
+    token = github_secrets.get("GITHUB_TOKEN", "")
+    repo_name = github_secrets.get("GITHUB_REPO", DEFAULT_REPO)
+    branch = github_secrets.get("GITHUB_BRANCH", DEFAULT_BRANCH)
     if not token:
-        return False, "No hay GITHUB_TOKEN configurado en Streamlit Secrets."
+        return False, "No hay github.GITHUB_TOKEN configurado en Streamlit Secrets."
     try:
         gh = Github(token)
         repo = gh.get_repo(repo_name)
@@ -148,11 +148,12 @@ def github_save(payload):
 
 def update_results_csv(rows):
     """Create/update the consolidated results.csv in GitHub for the current submission."""
-    token = st.secrets.get("GITHUB_TOKEN", "")
-    repo_name = st.secrets.get("GITHUB_REPO", DEFAULT_REPO)
-    branch = st.secrets.get("GITHUB_BRANCH", DEFAULT_BRANCH)
+    github_secrets = st.secrets.get("github", {})
+    token = github_secrets.get("GITHUB_TOKEN", "")
+    repo_name = github_secrets.get("GITHUB_REPO", DEFAULT_REPO)
+    branch = github_secrets.get("GITHUB_BRANCH", DEFAULT_BRANCH)
     if not token:
-        raise RuntimeError("No hay GITHUB_TOKEN configurado en Streamlit Secrets.")
+        raise RuntimeError("No hay github.GITHUB_TOKEN configurado en Streamlit Secrets.")
 
     gh = Github(token)
     repo = gh.get_repo(repo_name)

@@ -1,0 +1,47 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-26T02:30:53+00:00",
+  "evaluador_id": "00112233",
+  "evaluador_nombre": "Prueba Sujeto, Test1",
+  "evaluador_rol": "Coordinador/a de misión",
+  "equipo": 0,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00112234",
+      "evaluado_nombre": "Prueba Sujeto, Test2",
+      "rol_evaluado": "Especialista anatómico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00112235",
+      "evaluado_nombre": "Prueba Sujeto, Test3",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00112236",
+      "evaluado_nombre": "Prueba Sujeto, Test4",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00112237",
+      "evaluado_nombre": "Prueba Sujeto, Test5",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    }
+  ],
+  "confirmation_code": "AA978B5E9A79"
+}

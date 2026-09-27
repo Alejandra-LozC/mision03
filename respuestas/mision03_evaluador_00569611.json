@@ -1,0 +1,56 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-27T20:41:40+00:00",
+  "evaluador_id": "00569611",
+  "evaluador_nombre": "González Vargas, Fernanda",
+  "evaluador_rol": "Coordinador/a de misión",
+  "equipo": 2,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00554053",
+      "evaluado_nombre": "Alatorre Quintero, Naomi",
+      "rol_evaluado": "Especialista anatómico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Hizo al cien su parte",
+      "observacion_trabajo_grupo": "Trabajo bien"
+    },
+    {
+      "evaluado_id": "00553159",
+      "evaluado_nombre": "Cruz Montes, Erick",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Hizo al cien su parte",
+      "observacion_trabajo_grupo": "Trabajo bien"
+    },
+    {
+      "evaluado_id": "00550849",
+      "evaluado_nombre": "Mena Fierro, Daniela",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Hizo al cien su parte",
+      "observacion_trabajo_grupo": "Trabajo bien"
+    },
+    {
+      "evaluado_id": "00554064",
+      "evaluado_nombre": "Torres Delgado, Karol Guadalupe",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Hizo al cien su parte",
+      "observacion_trabajo_grupo": "Trabajo bien"
+    },
+    {
+      "evaluado_id": "00546251",
+      "evaluado_nombre": "Valdés Arámbula, Sofia Octivela",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Hizo al cien su parte",
+      "observacion_trabajo_grupo": "Trabajo bien"
+    }
+  ],
+  "confirmation_code": "6B356297B086"
+}

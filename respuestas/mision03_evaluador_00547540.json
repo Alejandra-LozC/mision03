@@ -1,0 +1,56 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-27T18:19:28+00:00",
+  "evaluador_id": "00547540",
+  "evaluador_nombre": "García Guadarrama, Nicolás",
+  "evaluador_rol": "Coordinador/a de misión",
+  "equipo": 5,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00543797",
+      "evaluado_nombre": "Ameneyro Villarino, Lizeth",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Liz se encargo de que el documento tuviera buena estructura, y verificó la información",
+      "observacion_trabajo_grupo": "1% + de organización"
+    },
+    {
+      "evaluado_id": "00562302",
+      "evaluado_nombre": "Castañón Buendia, Elide",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Se encargo de buscar información verídica en fuentes confiables, aparte de todos los procesos físicos",
+      "observacion_trabajo_grupo": "Ninguna"
+    },
+    {
+      "evaluado_id": "00564882",
+      "evaluado_nombre": "Pozos Andrade, Melisa",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Se  encargó de tomar todas las fotos, gráficos  y imágenes necesarias.",
+      "observacion_trabajo_grupo": "Ninguna"
+    },
+    {
+      "evaluado_id": "00541560",
+      "evaluado_nombre": "Trejo Lujan, Angel Alejandro",
+      "rol_evaluado": "Especialista anatómico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Investigo absolutamente toda la información de las partes de nuestra misión.",
+      "observacion_trabajo_grupo": "Ninguna"
+    },
+    {
+      "evaluado_id": "00548339",
+      "evaluado_nombre": "de Lira Campos, Diego Esteban",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Junto con Melisa, preparo los cuadros de información para el buen entendimiento",
+      "observacion_trabajo_grupo": "Ninguna"
+    }
+  ],
+  "confirmation_code": "CBD83E93AE66"
+}

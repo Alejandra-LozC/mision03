@@ -1,0 +1,56 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-27T18:18:02+00:00",
+  "evaluador_id": "00562302",
+  "evaluador_nombre": "Castañón Buendia, Elide",
+  "evaluador_rol": "Investigador/a biomédico/a",
+  "equipo": 5,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00543797",
+      "evaluado_nombre": "Ameneyro Villarino, Lizeth",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Ella verificó y revisó la estructura del trabajo correctamente",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00547540",
+      "evaluado_nombre": "García Guadarrama, Nicolás",
+      "rol_evaluado": "Coordinador/a de misión",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "verificó algunas de las articulaciones e hizo buenas aportaciones",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00564882",
+      "evaluado_nombre": "Pozos Andrade, Melisa",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "hizo aportaciones interesantes e importantes para que el trabajo quedara correctamente",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00541560",
+      "evaluado_nombre": "Trejo Lujan, Angel Alejandro",
+      "rol_evaluado": "Especialista anatómico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "confirmó, revisó  e hizo aportaciones importantes sobre las articulaciones",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00548339",
+      "evaluado_nombre": "de Lira Campos, Diego Esteban",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "registró las fotos e hizo aportaciones al equipo",
+      "observacion_trabajo_grupo": ""
+    }
+  ],
+  "confirmation_code": "08AE332CE0F7"
+}

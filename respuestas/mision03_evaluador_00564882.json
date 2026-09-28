@@ -1,0 +1,56 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-28T01:07:41+00:00",
+  "evaluador_id": "00564882",
+  "evaluador_nombre": "Pozos Andrade, Melisa",
+  "evaluador_rol": "Investigador/a biomédico/a",
+  "equipo": 5,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00543797",
+      "evaluado_nombre": "Ameneyro Villarino, Lizeth",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Se presentó muy pendiente  que todo se llevara acabo con buena actitud",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00562302",
+      "evaluado_nombre": "Castañón Buendia, Elide",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Me ayudó bastante a identificar diferentes aspectos que necesitábamos para completar como investigadores",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00547540",
+      "evaluado_nombre": "García Guadarrama, Nicolás",
+      "rol_evaluado": "Coordinador/a de misión",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Llevo a cabo una buena organización de equipo y que todos trabajáramos de manera participativa",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00541560",
+      "evaluado_nombre": "Trejo Lujan, Angel Alejandro",
+      "rol_evaluado": "Especialista anatómico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Reviso que estuvieras analizando de manera correcta con terminología o  nomenclatura adecuada",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00548339",
+      "evaluado_nombre": "de Lira Campos, Diego Esteban",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Nos ayudó a representar de manera visual toda la investigación",
+      "observacion_trabajo_grupo": ""
+    }
+  ],
+  "confirmation_code": "3ABDF94BDC63"
+}

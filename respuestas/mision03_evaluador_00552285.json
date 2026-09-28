@@ -1,0 +1,47 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-28T01:14:50+00:00",
+  "evaluador_id": "00552285",
+  "evaluador_nombre": "Mendizabal Camacho, Bruno",
+  "evaluador_rol": "Especialista anatómico/a",
+  "equipo": 1,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00545225",
+      "evaluado_nombre": "Carmona Herrera, Ximena",
+      "rol_evaluado": "Coordinador/a de misión",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "buena lider",
+      "observacion_trabajo_grupo": "realmente nada"
+    },
+    {
+      "evaluado_id": "00543018",
+      "evaluado_nombre": "Celaya Carlos, Camila",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "sacaba buena informacion de paginas",
+      "observacion_trabajo_grupo": "nada que mejorar"
+    },
+    {
+      "evaluado_id": "00551276",
+      "evaluado_nombre": "Enríquez Moreno, Fabiana",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "aportaba buenas ideas a la hora de hacer el trabajo",
+      "observacion_trabajo_grupo": "nada que mejorar"
+    },
+    {
+      "evaluado_id": "00571493",
+      "evaluado_nombre": "Reyes Ruiz, Sergio Daniel",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 3,
+      "nivel": "Competente todavía con áreas de oportunidad — Desempeñó adecuadamente las responsabilidades de su rol y realizó las tareas esperadas, aunque pudo haber aspectos por fortalecer.",
+      "evidencia_participacion": "hizo todo o que se le pidio, lo unico a fortalecer fue la hora en la que decidio acabar su rol",
+      "observacion_trabajo_grupo": "nada que mejorar"
+    }
+  ],
+  "confirmation_code": "0A3DCFE95270"
+}

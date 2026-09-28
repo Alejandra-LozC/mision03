@@ -1,0 +1,47 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-28T17:14:01+00:00",
+  "evaluador_id": "00574962",
+  "evaluador_nombre": "Robles Cruz, Perla Camila",
+  "evaluador_rol": "Especialista anatómico/a",
+  "equipo": 3,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00514083",
+      "evaluado_nombre": "Altamirano Reniery, Yael",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 3,
+      "nivel": "Competente todavía con áreas de oportunidad — Desempeñó adecuadamente las responsabilidades de su rol y realizó las tareas esperadas, aunque pudo haber aspectos por fortalecer.",
+      "evidencia_participacion": "Realizó un buen desempeño durante la actividad",
+      "observacion_trabajo_grupo": "todo bien"
+    },
+    {
+      "evaluado_id": "00565749",
+      "evaluado_nombre": "Arciniega Perez, Sadot",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Trabajó correctamente, investigó correctamente y lo necesario para que se pudiera realizar la actividad.",
+      "observacion_trabajo_grupo": "Todo bien"
+    },
+    {
+      "evaluado_id": "00556039",
+      "evaluado_nombre": "Casarrubias Salazar, Areli",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 3,
+      "nivel": "Competente todavía con áreas de oportunidad — Desempeñó adecuadamente las responsabilidades de su rol y realizó las tareas esperadas, aunque pudo haber aspectos por fortalecer.",
+      "evidencia_participacion": "Registró evidencia correctamente y nos ayudó a entender con esquemas la información",
+      "observacion_trabajo_grupo": "Buen trabajo"
+    },
+    {
+      "evaluado_id": "00494080",
+      "evaluado_nombre": "Sánchez Torices, David Iván",
+      "rol_evaluado": "Coordinador/a de misión",
+      "calificacion": 3,
+      "nivel": "Competente todavía con áreas de oportunidad — Desempeñó adecuadamente las responsabilidades de su rol y realizó las tareas esperadas, aunque pudo haber aspectos por fortalecer.",
+      "evidencia_participacion": "Faltó una mejor coordicinación pero en general todo bien con su desempeño",
+      "observacion_trabajo_grupo": "Bien"
+    }
+  ],
+  "confirmation_code": "02DEA4F24921"
+}

@@ -1,0 +1,56 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-29T00:17:15+00:00",
+  "evaluador_id": "00541560",
+  "evaluador_nombre": "Trejo Lujan, Angel Alejandro",
+  "evaluador_rol": "Especialista anatómico/a",
+  "equipo": 5,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00543797",
+      "evaluado_nombre": "Ameneyro Villarino, Lizeth",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "mando muchas citas",
+      "observacion_trabajo_grupo": "en nada es muy buena"
+    },
+    {
+      "evaluado_id": "00562302",
+      "evaluado_nombre": "Castañón Buendia, Elide",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "busco dispositivos",
+      "observacion_trabajo_grupo": "es muy buena organizando"
+    },
+    {
+      "evaluado_id": "00547540",
+      "evaluado_nombre": "García Guadarrama, Nicolás",
+      "rol_evaluado": "Coordinador/a de misión",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "nos ayudo a poner en estructura el doc",
+      "observacion_trabajo_grupo": "ninguna"
+    },
+    {
+      "evaluado_id": "00564882",
+      "evaluado_nombre": "Pozos Andrade, Melisa",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "ayudo con las fotos",
+      "observacion_trabajo_grupo": "en nada"
+    },
+    {
+      "evaluado_id": "00548339",
+      "evaluado_nombre": "de Lira Campos, Diego Esteban",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "dio buenos comentarios",
+      "observacion_trabajo_grupo": "nada"
+    }
+  ],
+  "confirmation_code": "51AA410D8F5F"
+}

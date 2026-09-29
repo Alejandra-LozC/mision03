@@ -1,0 +1,56 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-29T17:40:24+00:00",
+  "evaluador_id": "00543797",
+  "evaluador_nombre": "Ameneyro Villarino, Lizeth",
+  "evaluador_rol": "Integrador/a y portavoz",
+  "equipo": 5,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00562302",
+      "evaluado_nombre": "Castañón Buendia, Elide",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00547540",
+      "evaluado_nombre": "García Guadarrama, Nicolás",
+      "rol_evaluado": "Especialista anatómico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00564882",
+      "evaluado_nombre": "Pozos Andrade, Melisa",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00541560",
+      "evaluado_nombre": "Trejo Lujan, Angel Alejandro",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00548339",
+      "evaluado_nombre": "de Lira Campos, Diego Esteban",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    }
+  ],
+  "confirmation_code": "8BCE5FFDE74C"
+}

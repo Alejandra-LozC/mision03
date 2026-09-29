@@ -1,0 +1,56 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-29T18:20:08+00:00",
+  "evaluador_id": "00546467",
+  "evaluador_nombre": "del Real González, Paulina",
+  "evaluador_rol": "Especialista anatómico/a",
+  "equipo": 4,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00546041",
+      "evaluado_nombre": "González Razzón, Karla Melissa",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Karla sacó las fotos en laboratorio y las integro en el documento",
+      "observacion_trabajo_grupo": "mayor comunicación entre todos"
+    },
+    {
+      "evaluado_id": "00547481",
+      "evaluado_nombre": "Montemayor Nemer, Isabella",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Isa ayudo a integrar lo que cada uno de nosotros encontró en el laboratorio  para poder definir el tipo de articulaciones detectadas",
+      "observacion_trabajo_grupo": "mayor comunicación entre todos"
+    },
+    {
+      "evaluado_id": "00543215",
+      "evaluado_nombre": "Ochoa Lomeli, Lucía",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Entre isa y lu ayudaron a integrar las articulaciones a una aplicación biomédica",
+      "observacion_trabajo_grupo": "mayor comunicación entre todos"
+    },
+    {
+      "evaluado_id": "00546567",
+      "evaluado_nombre": "Simroth García, Federico",
+      "rol_evaluado": "Coordinador/a de misión",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Fede se encargo de coordinar las tareas de cada uno y a identificar que faltaba en nuestro documento",
+      "observacion_trabajo_grupo": "mayor comunicación entre todos"
+    },
+    {
+      "evaluado_id": "00552586",
+      "evaluado_nombre": "Sánchez Guzmán, Isabella",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Isa se encargo de analizar cada articulación y así poder aplicarlo a un ejemplo biomédico",
+      "observacion_trabajo_grupo": "mayor comunicación entre todos"
+    }
+  ],
+  "confirmation_code": "0B0ECCCD0EEB"
+}

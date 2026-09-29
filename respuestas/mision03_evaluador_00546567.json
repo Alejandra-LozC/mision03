@@ -1,0 +1,56 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-29T02:39:54+00:00",
+  "evaluador_id": "00546567",
+  "evaluador_nombre": "Simroth García, Federico",
+  "evaluador_rol": "Coordinador/a de misión",
+  "equipo": 4,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00546041",
+      "evaluado_nombre": "González Razzón, Karla Melissa",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Todo correcto",
+      "observacion_trabajo_grupo": "Todo correcto"
+    },
+    {
+      "evaluado_id": "00547481",
+      "evaluado_nombre": "Montemayor Nemer, Isabella",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Integro correctamente las contribuciones de los integrantes",
+      "observacion_trabajo_grupo": "todo correcto"
+    },
+    {
+      "evaluado_id": "00543215",
+      "evaluado_nombre": "Ochoa Lomeli, Lucía",
+      "rol_evaluado": "Especialista anatómico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Verificó correctamente la ID de cada articulación",
+      "observacion_trabajo_grupo": "todo correcto"
+    },
+    {
+      "evaluado_id": "00552586",
+      "evaluado_nombre": "Sánchez Guzmán, Isabella",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Analizó correctamente la configuración articular",
+      "observacion_trabajo_grupo": "todo correcto"
+    },
+    {
+      "evaluado_id": "00546467",
+      "evaluado_nombre": "del Real González, Paulina",
+      "rol_evaluado": "Especialista anatómico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Verificó correctamente la ID de cada articulación",
+      "observacion_trabajo_grupo": "Todo correcto"
+    }
+  ],
+  "confirmation_code": "227927BB6653"
+}

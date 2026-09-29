@@ -1,0 +1,47 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-29T18:44:05+00:00",
+  "evaluador_id": "00543018",
+  "evaluador_nombre": "Celaya Carlos, Camila",
+  "evaluador_rol": "Investigador/a biomédico/a",
+  "equipo": 1,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00545225",
+      "evaluado_nombre": "Carmona Herrera, Ximena",
+      "rol_evaluado": "Especialista anatómico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00551276",
+      "evaluado_nombre": "Enríquez Moreno, Fabiana",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00552285",
+      "evaluado_nombre": "Mendizabal Camacho, Bruno",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00571493",
+      "evaluado_nombre": "Reyes Ruiz, Sergio Daniel",
+      "rol_evaluado": "Coordinador/a de misión",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    }
+  ],
+  "confirmation_code": "860845EF2C2C"
+}

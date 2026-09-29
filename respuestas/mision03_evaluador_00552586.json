@@ -1,0 +1,56 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-29T17:16:51+00:00",
+  "evaluador_id": "00552586",
+  "evaluador_nombre": "Sánchez Guzmán, Isabella",
+  "evaluador_rol": "Investigador/a biomédico/a",
+  "equipo": 4,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00546041",
+      "evaluado_nombre": "González Razzón, Karla Melissa",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Que siempre estuvo muy involucrada en el proyecto, nos ayudó a organizar el proyecto y con todo lo técnico del mismo.",
+      "observacion_trabajo_grupo": "Creo que a todos nos costó aprende a dividirnos el trabajo"
+    },
+    {
+      "evaluado_id": "00547481",
+      "evaluado_nombre": "Montemayor Nemer, Isabella",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Estuvo muy al pendiente de lo que se iba agregando al documento e hizo observaciones claves para mejorarlo.",
+      "observacion_trabajo_grupo": "Creo que a todos nos costó aprende a dividirnos el trabajo"
+    },
+    {
+      "evaluado_id": "00543215",
+      "evaluado_nombre": "Ochoa Lomeli, Lucía",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Utilizó los conocimientos que ya teníamos de la clase para identificar y relacionar la estructura que nos tocó, lo hizo muy bien.",
+      "observacion_trabajo_grupo": "Creo que a todos nos costó aprende a dividirnos el trabajo."
+    },
+    {
+      "evaluado_id": "00546567",
+      "evaluado_nombre": "Simroth García, Federico",
+      "rol_evaluado": "Coordinador/a de misión",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Fede es muy organizado así que nos ayudó a estructurar y darle forma al documento, también ayudó a verificar la información.",
+      "observacion_trabajo_grupo": "Creo que a todos nos costó aprende a dividirnos el trabajo."
+    },
+    {
+      "evaluado_id": "00546467",
+      "evaluado_nombre": "del Real González, Paulina",
+      "rol_evaluado": "Especialista anatómico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Pau utilizó los conocimientos que ya habíamos aplicado en la clase de anatomía sobre las articulaciones y nos ayudó a verificar que lo que estabamos afirmando era real, hizo un excelente trabajo.",
+      "observacion_trabajo_grupo": "Creo que a todos nos costó aprende a dividirnos el trabajo."
+    }
+  ],
+  "confirmation_code": "ED7255C8ACB0"
+}

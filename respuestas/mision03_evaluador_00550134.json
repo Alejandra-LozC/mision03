@@ -1,0 +1,47 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-29T20:41:28+00:00",
+  "evaluador_id": "00550134",
+  "evaluador_nombre": "Pérez García, Mónica",
+  "evaluador_rol": "Especialista anatómico/a",
+  "equipo": 6,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00540793",
+      "evaluado_nombre": "Fonseca Jimenez, Natalia",
+      "rol_evaluado": "Coordinador/a de misión",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Ayudó mucho a diseñar el documento final, así como participó en la constante revisión del proyecto",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00561357",
+      "evaluado_nombre": "García Castro, Ana Paula",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00556007",
+      "evaluado_nombre": "Meza Hoy, Frida Gizet",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00557302",
+      "evaluado_nombre": "Vega Mena, Salma Lucia",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    }
+  ],
+  "confirmation_code": "19656F4B4DDE"
+}

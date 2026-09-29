@@ -1,0 +1,47 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-29T03:07:51+00:00",
+  "evaluador_id": "00545225",
+  "evaluador_nombre": "Carmona Herrera, Ximena",
+  "evaluador_rol": "Especialista anatómico/a",
+  "equipo": 1,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00543018",
+      "evaluado_nombre": "Celaya Carlos, Camila",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Aporto bastante al equipo y tambien ayudo a resolver dudas",
+      "observacion_trabajo_grupo": "Considero que fue una buena integrante"
+    },
+    {
+      "evaluado_id": "00551276",
+      "evaluado_nombre": "Enríquez Moreno, Fabiana",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 2,
+      "nivel": "Adecuado pero evidentemente en desarrollo — Cumplió parcialmente las responsabilidades de su rol o necesitó apoyo, recordatorios o seguimiento para completar su participación.",
+      "evidencia_participacion": "No estuvo muy pendiente al equipo",
+      "observacion_trabajo_grupo": "No contribuyo tanto como los demás"
+    },
+    {
+      "evaluado_id": "00552285",
+      "evaluado_nombre": "Mendizabal Camacho, Bruno",
+      "rol_evaluado": "Coordinador/a de misión",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Estuvo pendiente de que se entendiera todo",
+      "observacion_trabajo_grupo": "Considero que hemos trabajado muy bien como equipo"
+    },
+    {
+      "evaluado_id": "00571493",
+      "evaluado_nombre": "Reyes Ruiz, Sergio Daniel",
+      "rol_evaluado": "Coordinador/a de misión",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Ayudo a que todo estuviera en orden",
+      "observacion_trabajo_grupo": "Mejoraria ser un poco menos tímido pero en general todo super bien"
+    }
+  ],
+  "confirmation_code": "B9142344E51B"
+}

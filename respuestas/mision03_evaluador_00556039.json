@@ -1,0 +1,47 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-29T21:12:20+00:00",
+  "evaluador_id": "00556039",
+  "evaluador_nombre": "Casarrubias Salazar, Areli",
+  "evaluador_rol": "Documentador/a",
+  "equipo": 3,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00514083",
+      "evaluado_nombre": "Altamirano Reniery, Yael",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Revisó cuidadosamente las cada de los componentes que se le asignaron y muy buena participación viendo la coherencia entre estructura, clasificación, movimiento y aplicación biomédica.",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00565749",
+      "evaluado_nombre": "Arciniega Perez, Sadot",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Muy buena aportación en el análisis de la configuración articular, contribuyo con la búsqueda de información de manera acertada y las definiciones nos ayudaron a comprender de mejor manera el movimiento de las artículaciones.",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00574962",
+      "evaluado_nombre": "Robles Cruz, Perla Camila",
+      "rol_evaluado": "Especialista anatómico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Muy buena aportación al señalarnos la ubicación de las distintas articulaciones en la identificación de estas en el laboratorio comprobando posteriormente que la información fuera correcta.",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00494080",
+      "evaluado_nombre": "Sánchez Torices, David Iván",
+      "rol_evaluado": "Coordinador/a de misión",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Organizó de manera muy eficaz el trabajo en equipo, permitiéndonos a todos desarrollar un buen rol y que la entrega fuese más fácil verificando al final toda la información y participación de cada rol en el equipo",
+      "observacion_trabajo_grupo": ""
+    }
+  ],
+  "confirmation_code": "3943741C6FB1"
+}

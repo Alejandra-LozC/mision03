@@ -1,6 +1,6 @@
 {
   "mision": "03",
-  "timestamp": "2026-09-30T01:49:58+00:00",
+  "timestamp": "2026-09-30T01:53:35+00:00",
   "evaluador_id": "00571493",
   "evaluador_nombre": "Reyes Ruiz, Sergio Daniel",
   "evaluador_rol": "Coordinador/a de misión",
@@ -12,7 +12,7 @@
       "rol_evaluado": "Especialista anatómico/a",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Verifico lo que se debia de manera correcta.",
+      "evidencia_participacion": "Verifico todo de manera correcta utilizando nomenclatura y demas.",
       "observacion_trabajo_grupo": "Ninguna."
     },
     {
@@ -21,7 +21,7 @@
       "rol_evaluado": "Investigador/a biomédico/a",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Identifico todo de manera correcta relacionandolo con la biomedica.",
+      "evidencia_participacion": "Relaciono bien los conceptos, relacionandolo con la biomedica.",
       "observacion_trabajo_grupo": "Ninguna."
     },
     {
@@ -30,7 +30,7 @@
       "rol_evaluado": "Integrador/a y portavoz",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Contribuyo bien con las conclusiones y detecto las contradicciones que podian llegar a haber.",
+      "evidencia_participacion": "Verfico bien las contradicciones que hubieron y contribuyo a las conclusiones.",
       "observacion_trabajo_grupo": "Ninguna."
     },
     {
@@ -39,9 +39,9 @@
       "rol_evaluado": "Documentador/a",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Registro muy bien la evidencia.",
+      "evidencia_participacion": "Registro bien la evidencia necesaria.",
       "observacion_trabajo_grupo": "Ninguna."
     }
   ],
-  "confirmation_code": "ED656AA99F9B"
+  "confirmation_code": "581CF94DD1BC"
 }

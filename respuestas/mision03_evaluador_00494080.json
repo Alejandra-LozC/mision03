@@ -1,0 +1,47 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-30T05:55:33+00:00",
+  "evaluador_id": "00494080",
+  "evaluador_nombre": "Sánchez Torices, David Iván",
+  "evaluador_rol": "Coordinador/a de misión",
+  "equipo": 3,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00514083",
+      "evaluado_nombre": "Altamirano Reniery, Yael",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Todo excelente",
+      "observacion_trabajo_grupo": "Nada todo bien"
+    },
+    {
+      "evaluado_id": "00565749",
+      "evaluado_nombre": "Arciniega Perez, Sadot",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Excelente participación",
+      "observacion_trabajo_grupo": "No todo perfecto"
+    },
+    {
+      "evaluado_id": "00556039",
+      "evaluado_nombre": "Casarrubias Salazar, Areli",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Muy bien trabajo realizado",
+      "observacion_trabajo_grupo": "Todo excelente"
+    },
+    {
+      "evaluado_id": "00574962",
+      "evaluado_nombre": "Robles Cruz, Perla Camila",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Excelente trabajo",
+      "observacion_trabajo_grupo": "Todo bien"
+    }
+  ],
+  "confirmation_code": "9BDD0D8D0008"
+}

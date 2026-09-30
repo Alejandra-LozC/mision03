@@ -1,0 +1,47 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-30T17:19:16+00:00",
+  "evaluador_id": "00514083",
+  "evaluador_nombre": "Altamirano Reniery, Yael",
+  "evaluador_rol": "Integrador/a y portavoz",
+  "equipo": 3,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00565749",
+      "evaluado_nombre": "Arciniega Perez, Sadot",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "trabaja muy bien",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00556039",
+      "evaluado_nombre": "Casarrubias Salazar, Areli",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Es buena lider",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00574962",
+      "evaluado_nombre": "Robles Cruz, Perla Camila",
+      "rol_evaluado": "Especialista anatómico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Sabe bien del tema",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00494080",
+      "evaluado_nombre": "Sánchez Torices, David Iván",
+      "rol_evaluado": "Coordinador/a de misión",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Sabe coordinar",
+      "observacion_trabajo_grupo": ""
+    }
+  ],
+  "confirmation_code": "24D5D3FBAF02"
+}

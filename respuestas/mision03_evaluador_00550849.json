@@ -1,0 +1,56 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-30T05:04:16+00:00",
+  "evaluador_id": "00550849",
+  "evaluador_nombre": "Mena Fierro, Daniela",
+  "evaluador_rol": "Investigador/a biomédico/a",
+  "equipo": 2,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00554053",
+      "evaluado_nombre": "Alatorre Quintero, Naomi",
+      "rol_evaluado": "Coordinador/a de misión",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00553159",
+      "evaluado_nombre": "Cruz Montes, Erick",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00569611",
+      "evaluado_nombre": "González Vargas, Fernanda",
+      "rol_evaluado": "Especialista anatómico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00554064",
+      "evaluado_nombre": "Torres Delgado, Karol Guadalupe",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00546251",
+      "evaluado_nombre": "Valdés Arámbula, Sofia Octivela",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    }
+  ],
+  "confirmation_code": "30873034B857"
+}

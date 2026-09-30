@@ -1,0 +1,47 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-30T01:43:48+00:00",
+  "evaluador_id": "00565749",
+  "evaluador_nombre": "Arciniega Perez, Sadot",
+  "evaluador_rol": "Investigador/a biomédico/a",
+  "equipo": 3,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00514083",
+      "evaluado_nombre": "Altamirano Reniery, Yael",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Buen trabajo en equipo",
+      "observacion_trabajo_grupo": "Todo bien en el trabajo"
+    },
+    {
+      "evaluado_id": "00556039",
+      "evaluado_nombre": "Casarrubias Salazar, Areli",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Buen trabajo en equipo",
+      "observacion_trabajo_grupo": "Todo bien en el trabajo"
+    },
+    {
+      "evaluado_id": "00574962",
+      "evaluado_nombre": "Robles Cruz, Perla Camila",
+      "rol_evaluado": "Especialista anatómico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Buen trabajo en equipo",
+      "observacion_trabajo_grupo": "Todo bien en el trabajo"
+    },
+    {
+      "evaluado_id": "00494080",
+      "evaluado_nombre": "Sánchez Torices, David Iván",
+      "rol_evaluado": "Coordinador/a de misión",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Buen trabajo en equipo",
+      "observacion_trabajo_grupo": "Todo bien en el trabajo"
+    }
+  ],
+  "confirmation_code": "662EF7F040EC"
+}

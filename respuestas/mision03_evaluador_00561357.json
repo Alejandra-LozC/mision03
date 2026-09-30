@@ -1,6 +1,6 @@
 {
   "mision": "03",
-  "timestamp": "2026-09-30T05:05:11+00:00",
+  "timestamp": "2026-09-30T05:16:38+00:00",
   "evaluador_id": "00561357",
   "evaluador_nombre": "García Castro, Ana Paula",
   "evaluador_rol": "Documentador/a",
@@ -12,7 +12,7 @@
       "rol_evaluado": "Especialista anatómico/a",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Ella realizó los diagramas y logró indicar de manera correcta, cada una de las articulaciones que debíamos indicar",
+      "evidencia_participacion": "Ella realizó los diagramas necesarios de la práctica",
       "observacion_trabajo_grupo": "Todo bien"
     },
     {
@@ -21,7 +21,7 @@
       "rol_evaluado": "Investigador/a biomédico/a",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Determino cada una de las articulaciones que se iban a estudiar",
+      "evidencia_participacion": "Generó el análisis descriptivo de cada una de las articulaciones",
       "observacion_trabajo_grupo": "Todo bien"
     },
     {
@@ -30,7 +30,7 @@
       "rol_evaluado": "Coordinador/a de misión",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Ella tuvo la iniciativa y se percató que todo el documento tuviera el formato correcto y verificó que no faltara nada",
+      "evidencia_participacion": "Tomo la iniciativa de realizar el documento y se encargó de que estuviera toda la información necesaria",
       "observacion_trabajo_grupo": "Todo bien"
     },
     {
@@ -39,9 +39,9 @@
       "rol_evaluado": "Integrador/a y portavoz",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Verificó que toda la información estuviera correcta y ella realizó las conclusiones",
+      "evidencia_participacion": "Verifico que el documento tuviera la estructura necesaria y realizó las conclusiones sobre cada articulación",
       "observacion_trabajo_grupo": "Todo bien"
     }
   ],
-  "confirmation_code": "AE1AEDA0023D"
+  "confirmation_code": "7C4DD51834D0"
 }

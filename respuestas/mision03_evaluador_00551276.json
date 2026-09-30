@@ -1,0 +1,47 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-30T20:20:28+00:00",
+  "evaluador_id": "00551276",
+  "evaluador_nombre": "Enríquez Moreno, Fabiana",
+  "evaluador_rol": "Integrador/a y portavoz",
+  "equipo": 1,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00545225",
+      "evaluado_nombre": "Carmona Herrera, Ximena",
+      "rol_evaluado": "Especialista anatómico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Es muy organizada",
+      "observacion_trabajo_grupo": "ninguna"
+    },
+    {
+      "evaluado_id": "00543018",
+      "evaluado_nombre": "Celaya Carlos, Camila",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Es muy segura y tiene conviccion",
+      "observacion_trabajo_grupo": "ninguna"
+    },
+    {
+      "evaluado_id": "00552285",
+      "evaluado_nombre": "Mendizabal Camacho, Bruno",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Atento",
+      "observacion_trabajo_grupo": "ninguna"
+    },
+    {
+      "evaluado_id": "00571493",
+      "evaluado_nombre": "Reyes Ruiz, Sergio Daniel",
+      "rol_evaluado": "Coordinador/a de misión",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Muy organizado",
+      "observacion_trabajo_grupo": "ninguna"
+    }
+  ],
+  "confirmation_code": "17C4B0A6DCE0"
+}

@@ -1,0 +1,47 @@
+{
+  "mision": "03",
+  "timestamp": "2026-09-30T05:05:11+00:00",
+  "evaluador_id": "00561357",
+  "evaluador_nombre": "García Castro, Ana Paula",
+  "evaluador_rol": "Documentador/a",
+  "equipo": 6,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00540793",
+      "evaluado_nombre": "Fonseca Jimenez, Natalia",
+      "rol_evaluado": "Especialista anatómico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Ella realizó los diagramas y logró indicar de manera correcta, cada una de las articulaciones que debíamos indicar",
+      "observacion_trabajo_grupo": "Todo bien"
+    },
+    {
+      "evaluado_id": "00556007",
+      "evaluado_nombre": "Meza Hoy, Frida Gizet",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Determino cada una de las articulaciones que se iban a estudiar",
+      "observacion_trabajo_grupo": "Todo bien"
+    },
+    {
+      "evaluado_id": "00550134",
+      "evaluado_nombre": "Pérez García, Mónica",
+      "rol_evaluado": "Coordinador/a de misión",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Ella tuvo la iniciativa y se percató que todo el documento tuviera el formato correcto y verificó que no faltara nada",
+      "observacion_trabajo_grupo": "Todo bien"
+    },
+    {
+      "evaluado_id": "00557302",
+      "evaluado_nombre": "Vega Mena, Salma Lucia",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Verificó que toda la información estuviera correcta y ella realizó las conclusiones",
+      "observacion_trabajo_grupo": "Todo bien"
+    }
+  ],
+  "confirmation_code": "AE1AEDA0023D"
+}

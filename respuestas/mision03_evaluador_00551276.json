@@ -1,6 +1,6 @@
 {
   "mision": "03",
-  "timestamp": "2026-09-30T20:20:37+00:00",
+  "timestamp": "2026-09-30T20:24:16+00:00",
   "evaluador_id": "00551276",
   "evaluador_nombre": "Enríquez Moreno, Fabiana",
   "evaluador_rol": "Integrador/a y portavoz",
@@ -12,7 +12,7 @@
       "rol_evaluado": "Especialista anatómico/a",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Es muy organizada",
+      "evidencia_participacion": "Es muy organizada y atenta",
       "observacion_trabajo_grupo": "ninguna"
     },
     {
@@ -21,7 +21,7 @@
       "rol_evaluado": "Investigador/a biomédico/a",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Es muy segura y tiene conviccion",
+      "evidencia_participacion": "Es muy buena aportadora al equipo, nos ayuda mucho",
       "observacion_trabajo_grupo": "ninguna"
     },
     {
@@ -30,7 +30,7 @@
       "rol_evaluado": "Documentador/a",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Atento",
+      "evidencia_participacion": "Muyr irganizado",
       "observacion_trabajo_grupo": "ninguna"
     },
     {
@@ -39,9 +39,9 @@
       "rol_evaluado": "Coordinador/a de misión",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Muy organizado",
+      "evidencia_participacion": "realizo sus responsabilidades de manera clara",
       "observacion_trabajo_grupo": "ninguna"
     }
   ],
-  "confirmation_code": "DB85B29F8577"
+  "confirmation_code": "F9747B60E023"
 }

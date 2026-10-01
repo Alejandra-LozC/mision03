@@ -1,6 +1,6 @@
 {
   "mision": "03",
-  "timestamp": "2026-09-28T00:13:10+00:00",
+  "timestamp": "2026-10-01T18:26:17+00:00",
   "evaluador_id": "00547481",
   "evaluador_nombre": "Montemayor Nemer, Isabella",
   "evaluador_rol": "Integrador/a y portavoz",
@@ -12,8 +12,8 @@
       "rol_evaluado": "Documentador/a",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Muy bien su trabajo",
-      "observacion_trabajo_grupo": "Todo bien"
+      "evidencia_participacion": "Muy buenas aportaciones y ayudo mucho al documento.",
+      "observacion_trabajo_grupo": "Todo muy bien"
     },
     {
       "evaluado_id": "00543215",
@@ -21,7 +21,7 @@
       "rol_evaluado": "Investigador/a biomédico/a",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Contribuyó bien en el trabajo",
+      "evidencia_participacion": "Buen trabajo en sus responsabilidades",
       "observacion_trabajo_grupo": "Todo bien"
     },
     {
@@ -30,7 +30,7 @@
       "rol_evaluado": "Coordinador/a de misión",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Cumplió con su parte y ayudó al equipo",
+      "evidencia_participacion": "Muy buena investigación y organización de la misión",
       "observacion_trabajo_grupo": "Todo muy bien"
     },
     {
@@ -39,8 +39,8 @@
       "rol_evaluado": "Investigador/a biomédico/a",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Todo bien",
-      "observacion_trabajo_grupo": ""
+      "evidencia_participacion": "Buen trabajo",
+      "observacion_trabajo_grupo": "Todo bien"
     },
     {
       "evaluado_id": "00546467",
@@ -48,9 +48,9 @@
       "rol_evaluado": "Especialista anatómico/a",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Buenos aportes de investigación para el equipo",
+      "evidencia_participacion": "Buen trabajo",
       "observacion_trabajo_grupo": "Todo bien"
     }
   ],
-  "confirmation_code": "5E607CA970A4"
+  "confirmation_code": "24ECB5765D7D"
 }

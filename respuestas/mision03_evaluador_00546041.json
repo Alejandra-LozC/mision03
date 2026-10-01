@@ -1,6 +1,6 @@
 {
   "mision": "03",
-  "timestamp": "2026-09-28T16:51:27+00:00",
+  "timestamp": "2026-10-01T18:19:34+00:00",
   "evaluador_id": "00546041",
   "evaluador_nombre": "González Razzón, Karla Melissa",
   "evaluador_rol": "Documentador/a",
@@ -12,7 +12,7 @@
       "rol_evaluado": "Integrador/a y portavoz",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Verificaba que las respuestas fueran congruentes con el tipo de articulación",
+      "evidencia_participacion": "Aportó de buena manera al documento.",
       "observacion_trabajo_grupo": ""
     },
     {
@@ -21,7 +21,7 @@
       "rol_evaluado": "Investigador/a biomédico/a",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Con fuentes verifica que este correctos",
+      "evidencia_participacion": "Analizo las estructuras basándose en los atlas.",
       "observacion_trabajo_grupo": ""
     },
     {
@@ -30,7 +30,7 @@
       "rol_evaluado": "Coordinador/a de misión",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Separó los tipos de articulaciones para que cada una se enfocara en uno",
+      "evidencia_participacion": "DIstribuyó el trabajo de manera equitativa para todos.",
       "observacion_trabajo_grupo": ""
     },
     {
@@ -39,18 +39,18 @@
       "rol_evaluado": "Investigador/a biomédico/a",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Con fuentes verifica que este correctos",
+      "evidencia_participacion": "Analizo las estructuras basándose en los atlas.",
       "observacion_trabajo_grupo": ""
     },
     {
       "evaluado_id": "00546467",
       "evaluado_nombre": "del Real González, Paulina",
       "rol_evaluado": "Especialista anatómico/a",
-      "calificacion": 3,
-      "nivel": "Competente todavía con áreas de oportunidad — Desempeñó adecuadamente las responsabilidades de su rol y realizó las tareas esperadas, aunque pudo haber aspectos por fortalecer.",
-      "evidencia_participacion": "Con libros checaba que lo que estuviera señalado estuviera de manera exacta",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Confirmó cuales eran las estructuras proporcionadas",
       "observacion_trabajo_grupo": ""
     }
   ],
-  "confirmation_code": "6298E982F292"
+  "confirmation_code": "6F6549D837E1"
 }

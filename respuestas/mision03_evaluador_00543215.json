@@ -1,0 +1,56 @@
+{
+  "mision": "03",
+  "timestamp": "2026-10-01T22:04:42+00:00",
+  "evaluador_id": "00543215",
+  "evaluador_nombre": "Ochoa Lomeli, Lucía",
+  "evaluador_rol": "Investigador/a biomédico/a",
+  "equipo": 4,
+  "evaluaciones": [
+    {
+      "evaluado_id": "00546041",
+      "evaluado_nombre": "González Razzón, Karla Melissa",
+      "rol_evaluado": "Documentador/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "El documento estuvo muy estructurado y completo.",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00547481",
+      "evaluado_nombre": "Montemayor Nemer, Isabella",
+      "rol_evaluado": "Integrador/a y portavoz",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Nos corrigió varias cosas.",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00546567",
+      "evaluado_nombre": "Simroth García, Federico",
+      "rol_evaluado": "Coordinador/a de misión",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Nos estuvo recordando de las tareas que teniamos que hacer cada quien.",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00552586",
+      "evaluado_nombre": "Sánchez Guzmán, Isabella",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Nos compartió mucha información para completar la misión.",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "evaluado_id": "00546467",
+      "evaluado_nombre": "del Real González, Paulina",
+      "rol_evaluado": "Especialista anatómico/a",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Revisó el documento y que todo lo que pusimos fuera de acuerdo a la articulación.",
+      "observacion_trabajo_grupo": ""
+    }
+  ],
+  "confirmation_code": "31071161C393"
+}

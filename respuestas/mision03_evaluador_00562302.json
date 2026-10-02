@@ -1,45 +1,45 @@
 {
   "mision": "03",
-  "timestamp": "2026-09-27T18:18:02+00:00",
+  "timestamp": "2026-10-02T16:04:20+00:00",
   "evaluador_id": "00562302",
   "evaluador_nombre": "Castañón Buendia, Elide",
-  "evaluador_rol": "Investigador/a biomédico/a",
+  "evaluador_rol": "Integrador/a y portavoz",
   "equipo": 5,
   "evaluaciones": [
     {
       "evaluado_id": "00543797",
       "evaluado_nombre": "Ameneyro Villarino, Lizeth",
-      "rol_evaluado": "Integrador/a y portavoz",
-      "calificacion": 4,
-      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "Ella verificó y revisó la estructura del trabajo correctamente",
+      "rol_evaluado": "Investigador/a biomédico/a",
+      "calificacion": 1,
+      "nivel": "Solamente fue testigo del proceso — Su participación observable fue mínima y no permitió identificar un desempeño efectivo de las responsabilidades del rol.",
+      "evidencia_participacion": "definió información necesaria para nuestro diseño biomedico",
       "observacion_trabajo_grupo": ""
     },
     {
       "evaluado_id": "00547540",
       "evaluado_nombre": "García Guadarrama, Nicolás",
-      "rol_evaluado": "Coordinador/a de misión",
+      "rol_evaluado": "Investigador/a biomédico/a",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "verificó algunas de las articulaciones e hizo buenas aportaciones",
+      "evidencia_participacion": "",
       "observacion_trabajo_grupo": ""
     },
     {
       "evaluado_id": "00564882",
       "evaluado_nombre": "Pozos Andrade, Melisa",
-      "rol_evaluado": "Investigador/a biomédico/a",
+      "rol_evaluado": "Especialista anatómico/a",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "hizo aportaciones interesantes e importantes para que el trabajo quedara correctamente",
+      "evidencia_participacion": "verificó la identificación de las estructuras anatómicas e hizo gran aportación al trabajo",
       "observacion_trabajo_grupo": ""
     },
     {
       "evaluado_id": "00541560",
       "evaluado_nombre": "Trejo Lujan, Angel Alejandro",
-      "rol_evaluado": "Especialista anatómico/a",
+      "rol_evaluado": "Coordinador/a de misión",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "confirmó, revisó  e hizo aportaciones importantes sobre las articulaciones",
+      "evidencia_participacion": "organizo de manera correcta el documento e hizo que todo tuviera coherencia",
       "observacion_trabajo_grupo": ""
     },
     {
@@ -48,9 +48,9 @@
       "rol_evaluado": "Documentador/a",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "registró las fotos e hizo aportaciones al equipo",
+      "evidencia_participacion": "integró  imágenes que permitieron hacer más visual el trabajo e integró fuentes de información",
       "observacion_trabajo_grupo": ""
     }
   ],
-  "confirmation_code": "08AE332CE0F7"
+  "confirmation_code": "82DD70B6D3A5"
 }
